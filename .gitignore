@@ -1,0 +1,8 @@
+SalamanderGrandPianoV3_44.1khz16bit/
+
+.DS_Store
+__pycache__/
+*.pyc
+
+jazz-performance_feedback-form.pdf
+audience-feedback.md
